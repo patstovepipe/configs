@@ -1,0 +1,14 @@
+{
+    "editor.fontSize": 12,
+    "extensions.ignoreRecommendations": true,
+    "editor.renderWhitespace": "all",
+    "editor.renderControlCharacters": false,
+    "editor.minimap.enabled": true,
+    "omnisharp.projectLoadTimeout": 120,
+    "gitlens.advanced.messages": {
+        "suppressShowKeyBindingsNotice": true
+    },
+    "window.zoomLevel": 0,
+    "window.menuBarVisibility": "default",
+    "window.titleBarStyle": "custom"
+}

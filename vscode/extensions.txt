@@ -1,0 +1,8 @@
+code --install-extension [createInstance] extensionManagementService depends on downloadService which is NOT registered.
+code --install-extension donjayamanne.githistory
+code --install-extension eamodio.gitlens
+code --install-extension formulahendry.dotnet-test-explorer
+code --install-extension jmrog.vscode-nuget-package-manager
+code --install-extension k--kato.docomment
+code --install-extension ms-vscode.csharp
+code --install-extension Tyriar.shell-launcher

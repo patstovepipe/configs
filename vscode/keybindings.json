@@ -1,0 +1,10 @@
+// Place your key bindings in this file to overwrite the defaults
+[
+    { "key": "ctrl+shift+t", "command": "shellLauncher.launch" },
+    {
+        "key": "alt+v tab",
+        "command": "type",
+        "args": { "text": "\t" },
+        "when": "editorTextFocus"
+    }
+]
